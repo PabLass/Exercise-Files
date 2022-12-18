@@ -1,28 +1,9 @@
-indice,Year,Channel,Interactions
-0,2020,Remote,2856.0
-1,2022,Congresos F2F,8597.0
-2,2022,Congresos DIG,1045.0
-3,2020,Websites,2081.0
-4,2022,Navegas,107056.0
-5,2021,Navegas,127337.0
-6,2022,Websites,31855.0
-7,2020,Cursos Online,11.0
-8,2020,Emails,69788.0
-9,2020,Congresos DIG,3495.0
-10,2021,Emails,25575.0
-11,2021,Websites,42758.0
-12,2021,SFMC Emails,58074.0
-13,2020,Navegas,67219.0
-14,2022,Cursos Online,2688.0
-15,2020,SFMC Emails,8748.0
-16,2021,Congresos F2F,5548.0
-17,2021,Cursos Online,2103.0
-18,2022,SFMC Emails,112579.0
-19,2022,Emails,629.0
-20,2021,Congresos DIG,3648.0
-21,2022,Remote,2691.0
-22,2021,Remote,7760.0
-23,2021,Call (F2F),267788.0
-24,2022,Call (F2F),278953.0
-25,2020,Call (F2F),144095.0
-26,2020,Congresos F2F,2267.0
+Channel,TAM,TAM-1
+Call (F2F),290669,254887
+Congresos DIG,1106,4018
+Congresos F2F,8684,5375
+Cursos Online,2743,1990
+Navegas,107468,127242
+Remote,	2814,8048
+SFMC Emails,125810,47413
+Websites,33171,41112
